@@ -5,6 +5,7 @@ No, it's not originally for this. It's originally a part of my updater for my lo
 
 #Usage:
 > exmetacrawler.py [-t <OldestTimestamp to Search>] [-o <outputfile>] [-m <ipb_member_id>] [-p <ipb_pass_hash>]
+ 
 ##Arguments:
  -t <timestamp>: Oldest timestamp to search. Default: input from file 'latestPosted'
  -o <filename>: Output file name. Default: gdata.json
